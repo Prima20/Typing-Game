@@ -1,0 +1,13 @@
+{
+"companyName": "Prima",
+"productName": "Typing Game WorldCup 2018",
+"dataUrl": "Typing Game Web.data.unityweb",
+"asmCodeUrl": "Typing Game Web.asm.code.unityweb",
+"asmMemoryUrl": "Typing Game Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Typing Game Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#252880"
+}
