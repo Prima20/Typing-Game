@@ -3,4 +3,4 @@
 
 <img src="https://pbs.twimg.com/profile_images/889517605886853128/m8PJipWf_400x400.jpg" >
 
-Run Link : https://prima20.github.io/Typing-Game/
+Run : <a href="https://prima20.github.io/Typing-Game/">here</a>
